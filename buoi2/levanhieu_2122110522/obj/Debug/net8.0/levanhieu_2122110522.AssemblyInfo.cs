@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("levanhieu_2122110522")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5a77b7e6767791bd95d621674f5f63ad78b546b8")]
 [assembly: System.Reflection.AssemblyProductAttribute("levanhieu_2122110522")]
 [assembly: System.Reflection.AssemblyTitleAttribute("levanhieu_2122110522")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
