@@ -1,0 +1,38 @@
+﻿@model List<web_banhang.connect.product>
+@{
+    ViewBag.Title = "Danh sách sản phẩm";
+}
+
+<h2>Danh sách sản phẩm</h2>
+
+@if (Model == null || !Model.Any())
+{
+    <p class="alert alert-warning">@ViewBag.Message</p>
+}
+else
+{
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Tên sản phẩm</th>
+                <th>Hình ảnh</th>
+                <th>Giá</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.id</td>
+                    <td>@item.Name</td>
+                    <td>
+                        <img src="@Url.Content("~/Content/Images/" + item.Avatar)"
+                             alt="@item.Name" width="80" height="80" />
+                    </td>
+                    <td>@item.Price.ToString("N0") VND</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}

@@ -1,0 +1,6 @@
+@levanhieu_2122110522_HostAddress = http://localhost:5250
+
+GET {{levanhieu_2122110522_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
