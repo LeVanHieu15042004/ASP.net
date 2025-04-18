@@ -381,3 +381,4 @@ D:\buoi2\levanhieu_2122110522\obj\Debug\net8.0\refint\levanhieu_2122110522.dll
 D:\buoi2\levanhieu_2122110522\obj\Debug\net8.0\levanhieu_2122110522.pdb
 D:\buoi2\levanhieu_2122110522\obj\Debug\net8.0\levanhieu_2122110522.genruntimeconfig.cache
 D:\buoi2\levanhieu_2122110522\obj\Debug\net8.0\ref\levanhieu_2122110522.dll
+D:\buoi2\levanhieu_2122110522\obj\Debug\net8.0\levanhieu_2122110522.sourcelink.json

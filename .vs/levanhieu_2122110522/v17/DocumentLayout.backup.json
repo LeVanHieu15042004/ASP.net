@@ -3,32 +3,20 @@
   "WorkspaceRootPath": "D:\\buoi2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B3646164-ED70-487E-9BD3-75F0E6861A5C}|levanhieu_2122110522\\levanhieu_2122110522.csproj|d:\\buoi2\\levanhieu_2122110522\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3646164-ED70-487E-9BD3-75F0E6861A5C}|levanhieu_2122110522\\levanhieu_2122110522.csproj|solutionrelative:levanhieu_2122110522\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\buoi2\\levanhieu_2122110522\\Migrations\\20250418083339_AddAllTableee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:levanhieu_2122110522\\Migrations\\20250418083339_AddAllTableee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\buoi2\\levanhieu_2122110522\\Controllers\\BrandController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:levanhieu_2122110522\\Controllers\\BrandController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B3646164-ED70-487E-9BD3-75F0E6861A5C}|levanhieu_2122110522\\levanhieu_2122110522.csproj|d:\\buoi2\\levanhieu_2122110522\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B3646164-ED70-487E-9BD3-75F0E6861A5C}|levanhieu_2122110522\\levanhieu_2122110522.csproj|solutionrelative:levanhieu_2122110522\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B3646164-ED70-487E-9BD3-75F0E6861A5C}|levanhieu_2122110522\\levanhieu_2122110522.csproj|d:\\buoi2\\levanhieu_2122110522\\model\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3646164-ED70-487E-9BD3-75F0E6861A5C}|levanhieu_2122110522\\levanhieu_2122110522.csproj|solutionrelative:levanhieu_2122110522\\model\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\buoi2\\levanhieu_2122110522\\Migrations\\20250418083339_AddAllTableee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:levanhieu_2122110522\\Migrations\\20250418083339_AddAllTableee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\buoi2\\levanhieu_2122110522\\Migrations\\20250418082735_AddAllTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:levanhieu_2122110522\\Migrations\\20250418082735_AddAllTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B3646164-ED70-487E-9BD3-75F0E6861A5C}|levanhieu_2122110522\\levanhieu_2122110522.csproj|d:\\buoi2\\levanhieu_2122110522\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3646164-ED70-487E-9BD3-75F0E6861A5C}|levanhieu_2122110522\\levanhieu_2122110522.csproj|solutionrelative:levanhieu_2122110522\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B3646164-ED70-487E-9BD3-75F0E6861A5C}|levanhieu_2122110522\\levanhieu_2122110522.csproj|d:\\buoi2\\levanhieu_2122110522\\model\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3646164-ED70-487E-9BD3-75F0E6861A5C}|levanhieu_2122110522\\levanhieu_2122110522.csproj|solutionrelative:levanhieu_2122110522\\model\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B3646164-ED70-487E-9BD3-75F0E6861A5C}|levanhieu_2122110522\\levanhieu_2122110522.csproj|d:\\buoi2\\levanhieu_2122110522\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -57,6 +45,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{B3646164-ED70-487E-9BD3-75F0E6861A5C}|levanhieu_2122110522\\levanhieu_2122110522.csproj|d:\\buoi2\\levanhieu_2122110522\\controllers\\orderdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B3646164-ED70-487E-9BD3-75F0E6861A5C}|levanhieu_2122110522\\levanhieu_2122110522.csproj|solutionrelative:levanhieu_2122110522\\controllers\\orderdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\buoi2\\levanhieu_2122110522\\Controllers\\PostController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:levanhieu_2122110522\\Controllers\\PostController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\buoi2\\levanhieu_2122110522\\Model\\Post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:levanhieu_2122110522\\Model\\Post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\buoi2\\levanhieu_2122110522\\Model\\Brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:levanhieu_2122110522\\Model\\Brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,11 +66,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "20250418083339_AddAllTableee.cs",
               "DocumentMoniker": "D:\\buoi2\\levanhieu_2122110522\\Migrations\\20250418083339_AddAllTableee.cs",
               "RelativeDocumentMoniker": "levanhieu_2122110522\\Migrations\\20250418083339_AddAllTableee.cs",
@@ -78,38 +78,35 @@
               "RelativeToolTip": "levanhieu_2122110522\\Migrations\\20250418083339_AddAllTableee.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-18T08:33:39.525Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-18T08:33:39.525Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 11,
               "Title": "PostController.cs",
               "DocumentMoniker": "D:\\buoi2\\levanhieu_2122110522\\Controllers\\PostController.cs",
               "RelativeDocumentMoniker": "levanhieu_2122110522\\Controllers\\PostController.cs",
               "ToolTip": "D:\\buoi2\\levanhieu_2122110522\\Controllers\\PostController.cs",
               "RelativeToolTip": "levanhieu_2122110522\\Controllers\\PostController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAQwGAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-18T08:32:13.616Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-18T08:32:13.616Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 12,
               "Title": "Post.cs",
               "DocumentMoniker": "D:\\buoi2\\levanhieu_2122110522\\Model\\Post.cs",
               "RelativeDocumentMoniker": "levanhieu_2122110522\\Model\\Post.cs",
               "ToolTip": "D:\\buoi2\\levanhieu_2122110522\\Model\\Post.cs",
               "RelativeToolTip": "levanhieu_2122110522\\Model\\Post.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAUwCwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-18T08:30:42.523Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-18T08:30:42.523Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "20250418082735_AddAllTable.cs",
               "DocumentMoniker": "D:\\buoi2\\levanhieu_2122110522\\Migrations\\20250418082735_AddAllTable.cs",
               "RelativeDocumentMoniker": "levanhieu_2122110522\\Migrations\\20250418082735_AddAllTable.cs",
@@ -117,51 +114,48 @@
               "RelativeToolTip": "levanhieu_2122110522\\Migrations\\20250418082735_AddAllTable.cs",
               "ViewState": "AgIAACoAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-18T08:27:35.741Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-18T08:27:35.741Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "D:\\buoi2\\levanhieu_2122110522\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "levanhieu_2122110522\\Data\\AppDbContext.cs",
               "ToolTip": "D:\\buoi2\\levanhieu_2122110522\\Data\\AppDbContext.cs",
               "RelativeToolTip": "levanhieu_2122110522\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-18T08:24:52.719Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-18T08:24:52.719Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "BrandController.cs",
               "DocumentMoniker": "D:\\buoi2\\levanhieu_2122110522\\Controllers\\BrandController.cs",
               "RelativeDocumentMoniker": "levanhieu_2122110522\\Controllers\\BrandController.cs",
               "ToolTip": "D:\\buoi2\\levanhieu_2122110522\\Controllers\\BrandController.cs",
               "RelativeToolTip": "levanhieu_2122110522\\Controllers\\BrandController.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAAowFoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADwAAAAAAAAAAAAQwFoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-18T08:24:23.227Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 13,
               "Title": "Brand.cs",
               "DocumentMoniker": "D:\\buoi2\\levanhieu_2122110522\\Model\\Brand.cs",
               "RelativeDocumentMoniker": "levanhieu_2122110522\\Model\\Brand.cs",
               "ToolTip": "D:\\buoi2\\levanhieu_2122110522\\Model\\Brand.cs",
               "RelativeToolTip": "levanhieu_2122110522\\Model\\Brand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-18T08:22:30.018Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-18T08:22:30.018Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "Product.cs",
               "DocumentMoniker": "D:\\buoi2\\levanhieu_2122110522\\Model\\Product.cs",
               "RelativeDocumentMoniker": "levanhieu_2122110522\\Model\\Product.cs",
@@ -169,12 +163,11 @@
               "RelativeToolTip": "levanhieu_2122110522\\Model\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-18T07:50:43.402Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-18T07:50:43.402Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 9,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\buoi2\\levanhieu_2122110522\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "levanhieu_2122110522\\Properties\\launchSettings.json",
@@ -186,7 +179,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 10,
               "Title": "OrderDetailController.cs",
               "DocumentMoniker": "D:\\buoi2\\levanhieu_2122110522\\Controllers\\OrderDetailController.cs",
               "RelativeDocumentMoniker": "levanhieu_2122110522\\Controllers\\OrderDetailController.cs",
@@ -198,7 +191,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 6,
               "Title": "OrderController.cs",
               "DocumentMoniker": "D:\\buoi2\\levanhieu_2122110522\\Controllers\\OrderController.cs",
               "RelativeDocumentMoniker": "levanhieu_2122110522\\Controllers\\OrderController.cs",
@@ -206,12 +199,11 @@
               "RelativeToolTip": "levanhieu_2122110522\\Controllers\\OrderController.cs",
               "ViewState": "AgIAAEgAAAAAAAAAAAAowAoAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-18T06:28:36.786Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-18T06:28:36.786Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "Order.cs",
               "DocumentMoniker": "D:\\buoi2\\levanhieu_2122110522\\Model\\Order.cs",
               "RelativeDocumentMoniker": "levanhieu_2122110522\\Model\\Order.cs",
@@ -219,12 +211,11 @@
               "RelativeToolTip": "levanhieu_2122110522\\Model\\Order.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-18T06:26:12.983Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-18T06:26:12.983Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 7,
               "Title": "LoginRequest.cs",
               "DocumentMoniker": "D:\\buoi2\\levanhieu_2122110522\\Model\\LoginRequest.cs",
               "RelativeDocumentMoniker": "levanhieu_2122110522\\Model\\LoginRequest.cs",
@@ -236,7 +227,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 8,
               "Title": "AuthController.cs",
               "DocumentMoniker": "D:\\buoi2\\levanhieu_2122110522\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "levanhieu_2122110522\\Controllers\\AuthController.cs",
